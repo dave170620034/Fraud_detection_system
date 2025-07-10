@@ -71,4 +71,4 @@ Edit
 streamlit run app/app.py
 🧑‍💻 Author
 Deepak Mandloi
-Data Science Enthusiast | LinkedIn | deepakmandloi1706@gmail.com
+Data Science Enthusiast | email | deepakmandloi1706@gmail.com
