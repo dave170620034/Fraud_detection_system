@@ -11,15 +11,7 @@ This project focuses on building a machine learning pipeline to **detect fraudul
 - 📊 **Evaluation Metrics**: AUC-ROC, Precision-Recall AUC, Brier Score, and Calibration Curves to ensure trustworthy predictions.
 - 📈 **Feature Engineering**: Scales numerical features and handles categorical variables.
 - ⚙️ **Streamlit App**: Interactive frontend for real-time fraud detection.
-- 📦 **Modular Codebase**: Well-structured for easy modification and reuse.
-
----
-
-## 🗃️ Dataset
-
-- **Source**: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
-- **Size**: 284,807 transactions, with only 492 frauds (highly imbalanced)
-- **Features**: 30 anonymized features including `V1` to `V28`, `Amount`, and `Time`
+- 📦 **Modular Codebase**: Well-structured for easy modification and reuse
 
 ---
 
